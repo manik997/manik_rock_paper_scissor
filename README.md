@@ -1,1 +1,1 @@
-# manik_rock_paper_scissor
+# pop.pi_rock_paper_scissor
